@@ -1,4 +1,4 @@
-# enervenue
+# EnerVenue
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EnerVenue — metal-hydrogen (nickel-hydrogen) long-duration energy storage; 30-year / 30,000-cycle Energy Storage Vessels (ESVs) with Kentucky and China gigafactories.
+EnerVenue is a Fremont, California-based energy infrastructure company building long-duration stationary energy storage using a metal-hydrogen (nickel-hydrogen) battery chemistry derived from NASA-heritage technology that has powered the Hubble Space Telescope and the International Space Station since the 1980s. Co-founded by Stanford materials scientist Professor Yi Cui, EnerVenue refined the orbital nickel-hydrogen cell into a grid-scale "Energy Storage Vessel" (ESV) targeting a 30-year, 30,000+ cycle service life with 100% usable depth of discharge, ~90% round-trip efficiency, an operating range of -20 C to +60 C, no thermal runaway risk, and no active thermal management. The ESV's aqueous metal cell (AMC) uses a nickel hydroxide cathode, a nickel-alloy anode, an alkaline electrolyte, and hermetically sealed hydrogen gas storage built from steel, nickel, fiberglass, resin, and water — no lithium, cobalt, or rare earths. EnerVenue is scaling manufacturing through a one-million- square-foot gigafactory in Shelby County, Kentucky (1 GWh phase one, scaling toward 20 GWh per year with ~$1B of follow-on investment) plus a high-volume line in Changzhou, China (250 MWh by Q3 2026, 1 GWh in 2027). Customer commitments exceed 7 GWh and include Pine Gate Renewables (2.4 GWh, multi-year), Green Energy Renewable Solutions (Nicon Industries), Sonnell Power Solutions, and VedantaESS. The company closed a $300M Series B in 2026 to fund the gigafactory build-out. EnerVenue sells hardware, EPC-integrated storage systems, and long-duration service warranties — it does not publish a developer API, SDK, public OpenAPI specification, or open-source repository.
+
+**Areas:** Energy Storage · Long Duration Energy Storage · Metal Hydrogen Battery · Nickel Hydrogen Battery · Battery Energy Storage System · Energy Storage Vessel · Grid Scale Storage · Stationary Storage · Renewable Energy · Clean Energy · Utility Scale · Gigafactory
+
+## EnerVenue on APIs.io
+
+Everything profiled for EnerVenue is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/enervenue/](https://apis.io/providers/enervenue/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Enervenue Domain Security](https://apis.io/security/enervenue/enervenue-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://enervenue.com)
+- [Documentation](https://enervenue.com/documentation/)
+- [Support](https://enervenue.com/support/)
+
+## API Evangelist rating
+
+**Kin Score 4.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/enervenue/](https://apis.io/providers/enervenue/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for EnerVenue: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/enervenue/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
